@@ -1,0 +1,9 @@
+﻿  Main.cpp
+d:\proiectip\superpixels\superpixels\main.cpp(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\proiectip\superpixels\superpixels\main.cpp(40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\proiectip\superpixels\superpixels\main.cpp(101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\proiectip\superpixels\superpixels\main.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\proiectip\superpixels\superpixels\main.cpp(103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\proiectip\superpixels\superpixels\main.cpp(104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Superpixels.vcxproj -> D:\proiectIP\Superpixels\x64\Debug\Superpixels.exe
+  Superpixels.vcxproj -> D:\proiectIP\Superpixels\x64\Debug\Superpixels.pdb (Full PDB)
